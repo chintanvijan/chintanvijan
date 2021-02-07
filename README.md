@@ -10,9 +10,8 @@ I'm Chintan Vijan and I ❤ Coding, developing awesome software, automating bori
   - LinkedIn: https://www.linkedin.com/in/chintan-vijan-a92ba5156/
   - Portfolio : https://chintanvijan.github.io/
   
-  ![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintanvijan&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chintanvijan&hide=html&theme=dark)](https://github.com/chintanvijan/github-readme-stats)
-  
+  ![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintanvijan&show_icons=true&theme=dark&count_private=true&hide=contribs)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chintanvijan&hide=html&theme=dark&count_private=true)](https://github.com/chintanvijan/github-  
 ----------------------
 
 ⭐️ From <a href="https://github.com/chintanvijan" >chintanvijan</a>
