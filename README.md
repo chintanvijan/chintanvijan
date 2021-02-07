@@ -11,7 +11,7 @@ I'm Chintan Vijan and I ❤ Coding, developing awesome software, automating bori
   - Portfolio : https://chintanvijan.github.io/
   
   ![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintanvijan&show_icons=true&theme=dark&count_private=true&hide=contribs)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chintanvijan&hide=html&theme=dark&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chintanvijan&hide=html&theme=dark&count_private=true&layout=compact)
 ----------------------
 
 ⭐️ From <a href="https://github.com/chintanvijan" >chintanvijan</a>
